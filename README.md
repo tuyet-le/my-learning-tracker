@@ -3,20 +3,20 @@
 A log to track and share my web development progress, technical skills, projects, courses, helpful resources and my goals.
 
 ## Skills
-| Technical Skill       | Level  |
-|-----------------------|---|
-| HTML5                 |   |
-| CSS3                  |   |
-| JavaScript            |   |
-| ES6                   |   |
-| jQuery                |   |
-| Bootstrap             |   |
-| Responsive Web Design |   |
-| SVG Animation         |   |
-| Git                   |   |
-| Git Bash              |   |
-| Command Line          |   |
-| Github                |   |
+| Technical Skill       | Introduction    | Basic  | Good   | Confident |
+|-----------------------|-----------------| -------|--------|-----------|
+| HTML5                 | :star:          | :star: | :star: | :star:    |
+| CSS3                  | :star:          | :star: | :star: | :star:    |
+| JavaScript            | :star:          | :star: |        |           |
+| ES6                   | :star:          | :star: |        |           |
+| jQuery                | :star:          | :star: |        |           |
+| Bootstrap             | :star:          | :star: | :star: |           |
+| Responsive Web Design | :star:          | :star: | :star: | :star:    |
+| SVG Animation         | :star:          | :star: | :star: |    |
+| Git                   | :star:          | :star: | :star: |    |
+| Git Bash              | :star:          | :star: | :star: |    |
+| Command Line          | :star:          | :star: | :star: |    |
+| Github                | :star:          | :star: | :star: |    |
 | SASS                  |   |
 | React                 |   |
 | Redux                 |   |
@@ -27,7 +27,7 @@ A log to track and share my web development progress, technical skills, projects
 | Express.js            |   |
 | Markdown              |   |
 
-## Learning/Courese
+## Learning/Course
 
 ## Tech Events/Workshops
 
