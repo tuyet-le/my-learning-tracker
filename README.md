@@ -25,7 +25,7 @@ A log to track and share my web development progress, technical skills, projects
 | Webpack               |   |
 | Node.js               |   |
 | Express.js            |   |
-| Markdown              |   |
+| Markdown              | :star: |
 
 ## Learning Log
 | Progress                   | Type    | Title                                            | Tutor         |
@@ -37,18 +37,18 @@ A log to track and share my web development progress, technical skills, projects
 | :heavy_check_mark:         | Course  | [HTML & CSS](https://internetingishard.com/)                        | Interneting Is Hard |
 | :heavy_check_mark:         | Game    | [Flexbox Froggy](http://flexboxfroggy.com/)                         | Flexbox Froggy |
 | :heavy_check_mark:         | In-Person Part-Time Course  | [Code First: Girls - Introduction to Web Development](https://www.codefirstgirls.org.uk/) | Code First: Girls |
-| :heavy_check_mark:         | Course  | [Responsive Web Design](https://www.freecodecamp.org/toowee)        | freeCodeCamp |
+| :heavy_check_mark:         | Course  | [FCC Responsive Web Design](https://www.freecodecamp.org/toowee)        | freeCodeCamp |
 | :heavy_check_mark:         | Course  | [Watch and Code - Practical JavaScript](https://watchandcode.com/p/practical-javascript) | Gordon Zhu |
 | :heavy_check_mark:         | Blog    | [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) | Gordon Zhu     |
 | :heavy_check_mark:         | Book    | [Learn JavaScript & jQuery](http://javascriptbook.com/)             | Jon Duckett |
 | :heavy_check_mark:         | Course  | [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s) | Brad Traversy |
-| :chart_with_upwards_trend: | Course  | [JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
+| :chart_with_upwards_trend: | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :chart_with_upwards_trend: | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
-| :soon: | Course  | [20 Web Projects with Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) | Brad Traversy |
+| :soon: | Course  | [Udemy - 20 Web Projects with Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) | Brad Traversy |
 | :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
-| :soon: | Course  | [Modern React with Redux](https://www.udemy.com/course/react-redux/) | Udemy |
-| :soon: | Course  | [Advanced CSS and SASS](https://www.udemy.com/course/advanced-css-and-sass/) | Jonas Schmedtmann |
+| :soon: | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
+| :soon: | Course  | [Udemy - Advanced CSS and SASS](https://www.udemy.com/course/advanced-css-and-sass/) | Jonas Schmedtmann |
 | :soon:         | In-Person Part-Time Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
 
 ## Tech Events/Workshops
