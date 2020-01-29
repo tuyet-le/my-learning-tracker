@@ -59,6 +59,8 @@ A log to track and share my web development progress, technical skills, projects
 ## Helpful Resources
 ### Blogs
 * [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Gordon Zhu
+* [freeCodeCamp Forum](https://www.freecodecamp.org/forum/)
+* [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149) - 
 
 ### Podcasts
 * [CodeNewbie](https://saron.io/) - Saron Yitbarek
