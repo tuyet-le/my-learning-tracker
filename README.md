@@ -11,11 +11,11 @@ A log to track and share my web development progress, technical skills, projects
 | ES6                   | :star:          | :star: |        |           |
 | jQuery                | :star:          | :star: |        |           |
 | Bootstrap             | :star:          | :star: | :star: |           |
-| Responsive Web Design | :star:          | :star: | :star: | :star:    |
-| SVG Animation         | :star:          | :star: | :star: |    |
-| Git                   | :star:          | :star: | :star: |    |
-| Git Bash              | :star:          | :star: | :star: |    |
-| Command Line          | :star:          | :star: | :star: |    |
+| Responsive Web Design | :star:          | :star: | :star: |    |
+| SVG Animation         | :star:          | :star: |        |    |
+| Git                   | :star:          | :star: |        |    |
+| Git Bash              | :star:          | :star: |        |    |
+| Command Line          | :star:          | :star: |        |    |
 | Github                | :star:          | :star: | :star: |    |
 | SASS                  |   |
 | React                 |   |
@@ -27,7 +27,14 @@ A log to track and share my web development progress, technical skills, projects
 | Express.js            |   |
 | Markdown              |   |
 
-## Learning/Course
+## Learning Log
+| Progress                   | Type    | Course                                           | Tutor         |
+|----------------------------|---------| -------------------------------------------------|---------------|
+| :chart_with_upwards_trend: | Course  | Version Control With Git                         | Udacity       |
+| :heavy_check_mark:         | Course  | Responsive Web Design                            | freeCodeCamp  |
+| :chart_with_upwards_trend: | Course  | JavaScript Basic Algorithms and Data Structures  | freeCodeCamp  |
+| :chart_with_upwards_trend: | Course  | JavaScript Tutorial                              | SoloLean      |
+
 
 ## Tech Events/Workshops
 
