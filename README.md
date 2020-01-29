@@ -12,7 +12,7 @@ A log to track and share my web development progress, technical skills, projects
 | jQuery                | :star:          | :star: |        |           |
 | Bootstrap             | :star:          | :star: | :star: |           |
 | Responsive Web Design | :star:          | :star: | :star: |    |
-| SVG Animation         | :star:          | :star: |        |    |
+| SVG Animation         | :star:          |  |        |    |
 | Git                   | :star:          | :star: |        |    |
 | Git Bash              | :star:          | :star: |        |    |
 | Command Line          | :star:          | :star: |        |    |
