@@ -39,7 +39,6 @@ A log to track and share my web development progress, technical skills, projects
 | :heavy_check_mark:         | In-Person Part-Time Course  | [Code First: Girls - Introduction to Web Development](https://www.codefirstgirls.org.uk/) | Code First: Girls |
 | :heavy_check_mark:         | Course  | [FCC Responsive Web Design](https://www.freecodecamp.org/toowee)        | freeCodeCamp |
 | :heavy_check_mark:         | Course  | [Watch and Code - Practical JavaScript](https://watchandcode.com/p/practical-javascript) | Gordon Zhu |
-| :heavy_check_mark:         | Blog    | [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) | Gordon Zhu     |
 | :heavy_check_mark:         | Book    | [Learn JavaScript & jQuery](http://javascriptbook.com/)             | Jon Duckett |
 | :heavy_check_mark:         | Course  | [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s) | Brad Traversy |
 | :chart_with_upwards_trend: | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
@@ -58,9 +57,24 @@ A log to track and share my web development progress, technical skills, projects
 | [You Got This Conference, Birmingham](https://2020.yougotthis.io/)    | Jan 2020        |
 
 ## Helpful Resources
+### Blogs
+* [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Gordon Zhu
+
+### Podcasts
+* [CodeNewbie](https://saron.io/) - Saron Yitbarek
+
+### Documentation
+* [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## My Goals
-* [x] Join the [#100DaysOfCode](https://www.100daysofcode.com/) challenge
+* [ ] Learn React
+* [ ] Learn about APIs
+* [ ] Learn about build tools like [Gulp](https://gulpjs.com/) and include them in projects
+* [x] Make a habit of coding daily. Join the [#100DaysOfCode](https://www.100daysofcode.com/) challenge ([@toowee_](twitter.com/toowee_)
+* [ ] Complete a technical interview
 * [ ] Tell people I am a developer :smile:
 
 ## Acknowledgements
+This was inspired by [Syk Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) via his [Medium](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/) post for freeCodeCamp and [Shovan Chatterjee's Full Stack Web Developer Path](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
