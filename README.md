@@ -60,7 +60,7 @@ A log to track and share my web development progress, technical skills, projects
 ### Blogs
 * [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Gordon Zhu
 * [freeCodeCamp Forum](https://www.freecodecamp.org/forum/)
-* [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149) - 
+* [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149)
 
 ### Podcasts
 * [CodeNewbie](https://saron.io/) - Saron Yitbarek
@@ -74,7 +74,7 @@ A log to track and share my web development progress, technical skills, projects
 * [ ] Learn React
 * [ ] Learn about APIs
 * [ ] Learn about build tools like [Gulp](https://gulpjs.com/) and include them in projects
-* [x] Make a habit of coding daily. Join the [#100DaysOfCode](https://www.100daysofcode.com/) challenge ([@toowee_](twitter.com/toowee_)
+* [x] Make a habit of coding daily. Join the [#100DaysOfCode](https://www.100daysofcode.com/) challenge 
 * [ ] Complete a technical interview
 * [ ] Tell people I am a developer :smile:
 
