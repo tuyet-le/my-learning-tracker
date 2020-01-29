@@ -58,7 +58,7 @@ A log to track and share my web development progress, technical skills, projects
 | [You Got This Conference, Birmingham](https://2020.yougotthis.io/)    | Jan 2020        |
 
 ## Helpful Resources
-
+* [x] Join the [#100DaysOfCode](https://www.100daysofcode.com/) challenge
 ## My Goals
 
 ## Acknowledgements
