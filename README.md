@@ -36,7 +36,7 @@ A log to track and share my web development progress, technical skills, projects
 | :heavy_check_mark:         | Course  | [Introduction to CSS](https://www.codecademy.com/learn/learn-css)   | Codecademy |
 | :heavy_check_mark:         | Course  | [HTML & CSS](https://internetingishard.com/)                        | Interneting Is Hard |
 | :heavy_check_mark:         | Game    | [Flexbox Froggy](http://flexboxfroggy.com/)                         | Flexbox Froggy |
-| :heavy_check_mark:         | In-person 8-Week Course  | [Code First: Girls - Introduction to Web Development](https://www.codefirstgirls.org.uk/) | Code First: Girls |
+| :heavy_check_mark:         | In-Person Part-Time Course  | [Code First: Girls - Introduction to Web Development](https://www.codefirstgirls.org.uk/) | Code First: Girls |
 | :heavy_check_mark:         | Course  | [Responsive Web Design](https://www.freecodecamp.org/toowee)        | freeCodeCamp |
 | :heavy_check_mark:         | Course  | [Watch and Code - Practical JavaScript](https://watchandcode.com/p/practical-javascript) | Gordon Zhu |
 | :heavy_check_mark:         | Blog    | [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) | Gordon Zhu     |
@@ -48,14 +48,14 @@ A log to track and share my web development progress, technical skills, projects
 | :soon: | Course  | [20 Web Projects with Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) | Brad Traversy |
 | :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
 | :soon: | Course  | [Modern React with Redux](https://www.udemy.com/course/react-redux/) | Udemy |
-| :soon:         | In-person 8-Week Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
+| :soon: | Course  | [Advanced CSS and SASS](https://www.udemy.com/course/advanced-css-and-sass/) | Jonas Schmedtmann |
+| :soon:         | In-person Part-Time Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
 
 ## Tech Events/Workshops
 | Event                                                                 | Date            |
 |-----------------------------------------------------------------------|-----------------| 
 | [Codebar, London](https://codebar.io/)                                | Jan 2020        | 
 | [You Got This Conference, Birmingham](https://2020.yougotthis.io/)    | Jan 2020        |
-
 
 ## Helpful Resources
 
