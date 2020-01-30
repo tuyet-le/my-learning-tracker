@@ -17,15 +17,16 @@ A log to track and share my web development progress, technical skills, projects
 | Git Bash              | :star:          | :star: |        |    |
 | Command Line          | :star:          | :star: |        |    |
 | Github                | :star:          | :star: | :star: |    |
-| SASS                  |   |
+| Sass                  |   |
 | React                 |   |
 | Redux                 |   |
 | AJAX                  |   |
 | NPM                   |   |
 | Webpack               |   |
-| Node.js               |   |
-| Express.js            |   |
-| Markdown              | :star: |
+| Node.js               | :star: |  |
+| Express.js            | :star: |   |
+| Markdown              | :star: | :star: |
+| Visual Studio Code    | :star: | :star: | :star: |
 
 ## Learning Log
 | Progress                   | Type    | Title                                            | Tutor         |
