@@ -1,6 +1,6 @@
 # My Learning Tracker
 
-A log to track and share my web development progress, technical skills, projects, courses, helpful resources and my goals.
+A log to track and share my web development progress, helpful resources and my goals.
 
 ## Skills
 | Technical Skill       | Introduction    | Basic  | Good   | Confident |
