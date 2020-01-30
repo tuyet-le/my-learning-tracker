@@ -77,6 +77,7 @@ A log to track and share my web development progress, helpful resources and my g
 * [ ] Learn about APIs
 * [ ] Learn about build tools like [Gulp](https://gulpjs.com/) and include them in projects
 * [x] Make a habit of coding daily. Join the [#100DaysOfCode](https://www.100daysofcode.com/) challenge 
+* [ ] Design and build a portfolio website
 * [ ] Complete a technical interview
 * [ ] Tell people I am a developer :smile:
 
