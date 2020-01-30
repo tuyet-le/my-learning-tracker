@@ -6,7 +6,7 @@ A log to track and share my web development progress, technical skills, projects
 | Technical Skill       | Introduction    | Basic  | Good   | Confident |
 |-----------------------|-----------------| -------|--------|-----------|
 | HTML5                 | :star:          | :star: | :star: | :star:    |
-| CSS3                  | :star:          | :star: | :star: | :star:    |
+| CSS3                  | :star:          | :star: | :star: |    |
 | JavaScript            | :star:          | :star: |        |           |
 | ES6                   | :star:          | :star: |        |           |
 | jQuery                | :star:          | :star: |        |           |
