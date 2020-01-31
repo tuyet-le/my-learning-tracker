@@ -43,7 +43,7 @@ A log to track and share my web development progress, helpful resources and my g
 | :heavy_check_mark:         | Book    | [Learn JavaScript & jQuery](http://javascriptbook.com/)             | Jon Duckett |
 | :heavy_check_mark:         | Course  | [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s) | Brad Traversy |
 | :chart_with_upwards_trend: | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
-| :chart_with_upwards_trend: | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
+| :heavy_check_mark: | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
 | :soon: | Course  | [Udemy - 20 Web Projects with Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) | Brad Traversy |
 | :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
