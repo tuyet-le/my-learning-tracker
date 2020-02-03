@@ -44,6 +44,7 @@ A log to track and share my web development progress, helpful resources and my g
 | :heavy_check_mark:         | Course  | [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s) | Brad Traversy |
 | :chart_with_upwards_trend: | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :heavy_check_mark: | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
+| :chart_with_upwards_trend: | Course  | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | Jonas Schmedtmann |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
 | :soon: | Course  | [Udemy - 20 Web Projects with Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) | Brad Traversy |
 | :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
@@ -80,6 +81,7 @@ A log to track and share my web development progress, helpful resources and my g
 * [ ] Design and build a portfolio website
 * [ ] Complete a technical interview
 * [ ] Tell people I am a developer :smile:
+* [ ] Create and start my own blog
 
 ## Acknowledgements
 This was inspired by [Syk Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) via his [Medium](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/) post for freeCodeCamp and [Shovan Chatterjee's Full Stack Web Developer Path](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
