@@ -60,6 +60,7 @@ A log to track and share my web development progress, helpful resources and my g
 
 ## Helpful Resources
 ### Blogs
+* [Learn to code in 2020](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/) - Zero To Mastery
 * [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Gordon Zhu
 * [freeCodeCamp Forum](https://www.freecodecamp.org/forum/)
 * [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149)
