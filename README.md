@@ -6,25 +6,25 @@ A log to track and share my web development progress, helpful resources and my g
 | Technical Skill       | Introduction    | Basic  | Good   | Confident |
 |-----------------------|-----------------| -------|--------|-----------|
 | HTML5                 | :star:          | :star: | :star: | :star:    |
-| CSS3                  | :star:          | :star: | :star: |    |
+| CSS3                  | :star:          | :star: | :star: |           |
 | JavaScript            | :star:          | :star: |        |           |
 | ES6                   | :star:          | :star: |        |           |
 | jQuery                | :star:          | :star: |        |           |
 | Bootstrap             | :star:          | :star: | :star: |           |
 | Responsive Web Design | :star:          | :star: | :star: |    |
-| SVG Animation         | :star:          |  |        |    |
+| SVG Animation         | :star:          |        |        |    |
 | Git                   | :star:          | :star: |        |    |
 | Git Bash              | :star:          | :star: |        |    |
 | Command Line          | :star:          | :star: |        |    |
 | Github                | :star:          | :star: | :star: |    |
-| Sass                  |   |
-| React                 |   |
-| Redux                 |   |
-| AJAX                  |   |
-| NPM                   |   |
-| Webpack               |   |
-| Node.js               | :star: |  |
-| Express.js            | :star: |   |
+| Sass                  | :star:          |
+| React                 |                 |
+| Redux                 |                 |
+| Fetch API / AJAX      | :star:          |
+| NPM                   | :star:          |
+| Webpack               |                 |
+| Node.js               | :star: |        |
+| Express.js            | :star: |        |
 | Markdown              | :star: | :star: |
 | Visual Studio Code    | :star: | :star: | :star: |
 
@@ -71,14 +71,16 @@ A log to track and share my web development progress, helpful resources and my g
 ### Documentation
 * [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+* [SASS](https://sass-lang.com/documentation)
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## My Goals
 * [ ] Learn React
 * [ ] Learn a server-side language
-* [ ] Learn about APIs
+* [x] Learn about APIs
 * [ ] Learn about build tools like [Gulp](https://gulpjs.com/) and include them in projects
-* [x] Make a habit of coding daily. Join the [#100DaysOfCode](https://www.100daysofcode.com/) challenge 
+* [x] Make a habit of coding daily. 
+* [x] Join an online Tech community. Join the [#100DaysOfCode](https://www.100daysofcode.com/) challenge 
 * [ ] Design and build a portfolio website
 * [ ] Complete a technical interview
 * [ ] Tell people I am a developer :smile:
