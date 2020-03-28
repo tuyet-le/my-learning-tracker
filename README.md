@@ -46,7 +46,7 @@ A log to track and share my web development progress, helpful resources and my g
 | :heavy_check_mark: | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
 | :chart_with_upwards_trend: | Course  | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | Jonas Schmedtmann |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
-| :soon: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
+| :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
 | :soon: | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 | :soon: | Course  | [Udemy - Advanced CSS and SASS](https://www.udemy.com/course/advanced-css-and-sass/) | Jonas Schmedtmann |
