@@ -44,13 +44,14 @@ A log to track and share my web development progress, helpful resources and my g
 | :heavy_check_mark:         | Course  | [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s) | Brad Traversy |
 | :chart_with_upwards_trend: | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :heavy_check_mark: | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
-| :chart_with_upwards_trend: | Course  | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | Jonas Schmedtmann |
+| :heavy_check_mark | Course  | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | Jonas Schmedtmann |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
 | :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
 | :soon: | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 | :soon: | Course  | [Udemy - Advanced CSS and SASS](https://www.udemy.com/course/advanced-css-and-sass/) | Jonas Schmedtmann |
 | :chart_with_upwards_trend: | In-Person Part-Time Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
+| :soon: | Course  | [Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 
 ## Tech Events/Workshops
 | Event                                                                 | Date            |
