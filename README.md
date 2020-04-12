@@ -20,7 +20,7 @@ A log to track and share my web development progress, helpful resources and my g
 | Sass                  | :star:          |
 | React                 |                 |
 | Redux                 |                 |
-| Fetch API / AJAX      | :star:          |
+| Working with API's    | :star:          |
 | NPM                   | :star:          |
 | Webpack               |                 |
 | Node.js               | :star: |        |
