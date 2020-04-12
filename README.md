@@ -3,20 +3,20 @@
 A log to track and share my web development progress, helpful resources and my goals.
 
 ## Skills
-| Technical Skill       | Introduction    | Basic  | Good   | Confident |
-|-----------------------|-----------------| -------|--------|-----------|
-| HTML5                 | :star:          | :star: | :star: | :star:    |
-| CSS3                  | :star:          | :star: | :star: |           |
-| JavaScript            | :star:          | :star: |        |           |
-| ES6                   | :star:          | :star: |        |           |
-| jQuery                | :star:          | :star: |        |           |
-| Bootstrap             | :star:          | :star: | :star: |           |
-| Responsive Web Design | :star:          | :star: | :star: |    |
-| SVG Animation         | :star:          |        |        |    |
-| Git                   | :star:          | :star: |        |    |
-| Git Bash              | :star:          | :star: |        |    |
-| Command Line          | :star:          | :star: |        |    |
-| Github                | :star:          | :star: | :star: |    |
+| Technical Skill       | Introduction    | Occasional Use  | Regular Use |
+|-----------------------|-----------------| ----------------|-------------|
+| HTML5                 | :star:          | :star:          | :star:      |
+| CSS3                  | :star:          | :star:          | :star:      |           
+| JavaScript            | :star:          | :star:          | :star:      |
+| ES6                   | :star:          | :star:          | :star       |
+| jQuery                | :star:          |                 |             |
+| Bootstrap             | :star:          | :star:          | :star:      |
+| Responsive Web Design | :star:          | :star:          | :star:      |
+| SVG Animation         | :star:          |        |        |    
+| Git                   | :star:          | :star: |        |    
+| Git Bash              | :star:          | :star: |        |    
+| Command Line          | :star:          | :star: |        |    
+| Github                | :star:          | :star: | :star: |    
 | Sass                  | :star:          |
 | React                 |                 |
 | Redux                 |                 |
