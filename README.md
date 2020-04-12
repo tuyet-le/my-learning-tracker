@@ -8,15 +8,15 @@ A log to track and share my web development progress, helpful resources and my g
 | HTML5                 | :star:          | :star:          | :star:      |
 | CSS3                  | :star:          | :star:          | :star:      |           
 | JavaScript            | :star:          | :star:          | :star:      |
-| ES6                   | :star:          | :star:          | :star       |
+| ES6                   | :star:          | :star:          | :star:      |
 | jQuery                | :star:          |                 |             |
 | Bootstrap             | :star:          | :star:          | :star:      |
 | Responsive Web Design | :star:          | :star:          | :star:      |
-| SVG Animation         | :star:          |        |        |    
-| Git                   | :star:          | :star: |        |    
-| Git Bash              | :star:          | :star: |        |    
-| Command Line          | :star:          | :star: |        |    
-| Github                | :star:          | :star: | :star: |    
+| SVG Animation         | :star:          |                 |             |    
+| Git                   | :star:          | :star:          | :star:      |    
+| Git Bash              | :star:          | :star:          | :star:      |    
+| Command Line          | :star:          | :star:          | :star:      |    
+| Github                | :star:          | :star:          | :star:      |    
 | Sass                  | :star:          |
 | React                 |                 |
 | Redux                 |                 |
@@ -46,11 +46,11 @@ A log to track and share my web development progress, helpful resources and my g
 | :heavy_check_mark: | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
 | :heavy_check_mark: | Course  | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | Jonas Schmedtmann |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
+| :chart_with_upwards_trend: | In-Person Part-Time Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
 | :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
 | :soon: | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 | :soon: | Course  | [Udemy - Advanced CSS and SASS](https://www.udemy.com/course/advanced-css-and-sass/) | Jonas Schmedtmann |
-| :chart_with_upwards_trend: | In-Person Part-Time Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
 | :soon: | Course  | [Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 
 ## Tech Events/Workshops
