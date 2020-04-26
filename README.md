@@ -56,6 +56,7 @@ A log to track and share my web development progress, helpful resources and my g
 ## Tech Events/Workshops
 | Event                                                                 | Date            |
 |-----------------------------------------------------------------------|-----------------| 
+| [Free Code Camp Lockdown Conference](https://www.youtube.com/watch?v=l8K0B270cgE&t=3574s)                                | Apr 2020        | 
 | [Codebar, London](https://codebar.io/)                                | Jan 2020        | 
 | [You Got This Conference, Birmingham](https://2020.yougotthis.io/)    | Jan 2020        |
 
