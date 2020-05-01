@@ -45,7 +45,7 @@ A log to track and share my web development progress, helpful resources and my g
 | :heavy_check_mark: | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
 | :heavy_check_mark: | Course  | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | Jonas Schmedtmann |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
-| :chart_with_upwards_trend: | Course  | [Front End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
+| :chart_with_upwards_trend: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 | :chart_with_upwards_trend: | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :chart_with_upwards_trend: | In-Person Part-Time Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
 | :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
@@ -79,6 +79,7 @@ A log to track and share my web development progress, helpful resources and my g
 ## My Goals
 * [ ] Learn React
 * [ ] Learn a server-side language
+* [ ] Learn Express and Node.js
 * [x] Learn about APIs
 * [ ] Learn about build tools like [Gulp](https://gulpjs.com/) and include them in projects
 * [x] Make a habit of coding daily. 
