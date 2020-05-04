@@ -54,10 +54,10 @@ A log to track and share my web development progress, helpful resources and my g
 | :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
 | :soon: | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
-## Tech Events/Workshops
+## Tech Events/Workshops Attended
 | Event                                                                 | Date            |
 |-----------------------------------------------------------------------|-----------------|
-| [Virtual Codebar Monthlies](https://codebar.io/) | 4 May 2020 |
+| [Virtual Codebar Monthlies](https://codebar.io/) | May 2020 |
 | [Free Code Camp Lockdown Conference](https://www.youtube.com/watch?v=l8K0B270cgE&t=3574s)| Apr 2020        | 
 | [Codebar, London](https://codebar.io/)                                | Jan 2020        | 
 | [You Got This Conference, Birmingham](https://2020.yougotthis.io/)    | Jan 2020        |
