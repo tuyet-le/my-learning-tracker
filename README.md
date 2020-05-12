@@ -69,7 +69,7 @@ A log to track and share my web development progress, helpful resources and my g
 * [freeCodeCamp Forum](https://www.freecodecamp.org/forum/)
 
 ### UI & Design
-*[Icons8](https://icons8.com/)
+* [Icons8](https://icons8.com/)
 * [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
 * [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149)
 
