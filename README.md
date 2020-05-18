@@ -83,16 +83,15 @@ A log to track and share my web development progress, helpful resources and my g
 
 ## My Goals
 * [ ] Learn React
-* [ ] Learn a server-side language
-* [ ] Learn Express and Node.js
+* [x] Learn a server-side language - Node.js
 * [x] Learn about APIs
 * [ ] Learn about build tools like [Gulp](https://gulpjs.com/) and include them in projects
 * [x] Make a habit of coding daily. 
 * [x] Join an online Tech community. Join the [#100DaysOfCode](https://www.100daysofcode.com/) challenge 
-* [ ] Design and build a portfolio website
+* [x] Design and build a portfolio website
+* [x] Create and start my own blog
 * [ ] Complete a technical interview
 * [ ] Tell people I am a developer :smile:
-* [x] Create and start my own blog
 
 ## Acknowledgements
 This was inspired by [Syk Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) via his [Medium](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/) post for freeCodeCamp and [Shovan Chatterjee's Full Stack Web Developer Path](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
