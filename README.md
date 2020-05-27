@@ -57,6 +57,7 @@ A log to track and share my web development progress, helpful resources and my g
 ## Tech Events/Workshops Attended
 | Event                                                                 | Date            |
 |-----------------------------------------------------------------------|-----------------|
+| [Makers x Girls in Tech: How To Set Coding Goals And Stick To Them](https://www.eventbrite.co.uk/e/makers-x-girls-in-tech-how-to-set-coding-goals-and-stick-to-them-tickets-103707341450) | May 2020 |
 | [Virtual Codebar Monthlies](https://codebar.io/) | May 2020 |
 | [Free Code Camp Lockdown Conference](https://www.youtube.com/watch?v=l8K0B270cgE&t=3574s)| Apr 2020        | 
 | [Codebar, London](https://codebar.io/)                                | Jan 2020        | 
