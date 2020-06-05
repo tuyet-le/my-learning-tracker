@@ -70,14 +70,15 @@ A log to track and share my web development progress, helpful resources and my g
 * [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Gordon Zhu
 * [freeCodeCamp Forum](https://www.freecodecamp.org/forum/)
 
+
+### JavaScript
+* [Go Make Things](https://gomakethings.com/) - weekly short emails with really helpful code snippets, tools and techniques on JavaScript
+* [The Modern JavaScript Tutorial](https://javascript.info/) - my go to resource if I need to look up something with easy to follow examples
+
 ### UI & Design
 * [Icons8](https://icons8.com/)
 * [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
 * [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149)
-
-### JavaScript
-* [Go Make Things](https://gomakethings.com/) - weekly short emails with really helpful code snippets, tools and techniques on JavaScript
-* [The Modern JavaScript Tutorial](https://javascript.info/) - my go to resource if I need to look up something
 
 ### Podcasts
 * [CodeNewbie](https://saron.io/) - Saron Yitbarek
