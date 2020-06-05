@@ -50,7 +50,7 @@ A log to track and share my web development progress, helpful resources and my g
 | :chart_with_upwards_trend: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 | :chart_with_upwards_trend: | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
-| :soon: | Book  | [Eloquent JavaScript](https://eloquentjavascript.net/) | Marijn Haverbeke |
+| :chart_with_upwards_trend: | Book  | [Eloquent JavaScript](https://eloquentjavascript.net/) | Marijn Haverbeke |
 | :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
 | :soon: | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
