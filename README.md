@@ -8,7 +8,7 @@ A log to track and share my web development progress, helpful resources and my g
 | HTML5                 | :star:          | :star:          | :star:      |
 | CSS3                  | :star:          | :star:          | :star:      |           
 | JavaScript            | :star:          | :star:          | :star:      |
-| ES6                   | :star:          | :star:          | :star:      |
+| ES6+                  | :star:          | :star:          | :star:      |
 | jQuery                | :star:          |                 |             |
 | Python                | :star:          |                 |             |
 | Bootstrap             | :star:          | :star:          | :star:      |
