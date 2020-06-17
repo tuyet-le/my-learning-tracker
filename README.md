@@ -1,6 +1,6 @@
 # My Learning Tracker
 
-A log to track and share my web development progress, helpful resources and my goals.
+A log to track and share my web development progress, helpful resources, tech meetups/workshops attended and my goals.
 
 ## Skills
 | Technical Skill       | Introduction / Dabbled With | Regular Use |
@@ -90,9 +90,10 @@ A log to track and share my web development progress, helpful resources and my g
 
 ## My Goals
 * [ ] Learn React
+* [ ] Build a project in React
 * [x] Learn a server-side language - Node.js
 * [x] Learn about Restful APIs
-* [ ] Learn about build tools and include them in projects
+* [x] Learn a build tool
 * [x] Make a habit of coding daily
 * [x] Take part in the [#100DaysOfCode](https://www.100daysofcode.com/) challenge 
 * [x] Design and build a portfolio website
