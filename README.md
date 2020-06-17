@@ -3,31 +3,31 @@
 A log to track and share my web development progress, helpful resources and my goals.
 
 ## Skills
-| Technical Skill       | Introduction    | Occasional Use  | Regular Use |
-|-----------------------|-----------------| ----------------|-------------|
-| HTML5                 | :star:          | :star:          | :star:      |
-| CSS3                  | :star:          | :star:          | :star:      |           
-| JavaScript            | :star:          | :star:          | :star:      |
-| ES6+                  | :star:          | :star:          | :star:      |
-| jQuery                | :star:          |                 |             |
-| Python                | :star:          |                 |             |
-| Bootstrap             | :star:          | :star:          | :star:      |
-| Responsive Web Design | :star:          | :star:          | :star:      |
-| SVG Animation         | :star:          |                 |             |    
-| Git                   | :star:          | :star:          | :star:      |    
-| Git Bash              | :star:          | :star:          | :star:      |    
-| Command Line          | :star:          | :star:          | :star:      |    
-| Github                | :star:          | :star:          | :star:      |    
-| Sass                  | :star:          |
-| React                 |                 |
-| Redux                 |                 |
-| Working with API's    | :star:          |
-| NPM                   | :star:          |
-| Webpack               |                 |
-| Node.js               | :star: |        |
-| Express.js            | :star: |        |
-| Markdown              | :star: | :star: |
-| Visual Studio Code    | :star: | :star: | :star: |
+| Technical Skill       | Introduction / Dabbled With | Regular Use |
+|-----------------------|-----------------------------| ------------|
+| HTML5                 | :star:                      | :star:      |
+| CSS3                  | :star:                      | :star:      |
+| JavaScript            | :star:                      | :star:      |
+| ES6+                  | :star:                      | :star:      |
+| jQuery                | :star:                      |             |
+| Python                | :star:                      |             |
+| Bootstrap             | :star:                      | :star:      |
+| Sass                  | :star:                      | :star:      |
+| Responsive Web Design | :star:                      | :star:      |
+| SVG Animation         | :star:                      |             |
+| Git                   | :star:                      | :star:      |
+| Git Bash              | :star:                      | :star:      |
+| Command Line          | :star:                      | :star:      |
+| Github                | :star:                      | :star:      |
+| React                 |                             |             |
+| Redux                 |                             |             |
+| Working with APIs     | :star:                      |             |
+| NPM                   | :star:                      |             |
+| Node.js               | :star:                      |             |
+| Express.js            | :star:                      |             |
+| Webpack               | :star:                      |             |
+| Markdown              | :star:                      | :star:      |
+| Visual Studio Code    | :star:                      | :star:      |
 
 ## Learning Log
 | Progress                   | Type    | Title                                            | Tutor         |
@@ -48,7 +48,7 @@ A log to track and share my web development progress, helpful resources and my g
 | :heavy_check_mark: | In-Person Part-Time Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
 | :chart_with_upwards_trend: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
-| :chart_with_upwards_trend: | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
+| :heavy_check_mark: | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :chart_with_upwards_trend: | Book  | [Eloquent JavaScript](https://eloquentjavascript.net/) | Marijn Haverbeke |
 | :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
