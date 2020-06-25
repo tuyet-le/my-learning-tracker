@@ -38,21 +38,22 @@ A log to track and share my web development progress, helpful resources, tech me
 | :heavy_check_mark:         | Course  | [Introduction to CSS](https://www.codecademy.com/learn/learn-css)   | Codecademy |
 | :heavy_check_mark:         | Course  | [HTML & CSS](https://internetingishard.com/)                        | Interneting Is Hard |
 | :heavy_check_mark:         | Game    | [Flexbox Froggy](http://flexboxfroggy.com/)                         | Flexbox Froggy |
-| :heavy_check_mark:         | In-Person Part-Time Course  | [Code First: Girls - Introduction to Web Development](https://www.codefirstgirls.org.uk/) | Code First: Girls |
+| :heavy_check_mark:         | In-Person Course  | [Code First: Girls - Introduction to Web Development](https://www.codefirstgirls.org.uk/) | Code First: Girls |
 | :heavy_check_mark:         | Course  | [FCC Responsive Web Design](https://www.freecodecamp.org/toowee)        | freeCodeCamp |
+| :heavy_check_mark:         | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :heavy_check_mark:         | Course  | [Watch and Code - Practical JavaScript](https://watchandcode.com/p/practical-javascript) | Gordon Zhu |
 | :heavy_check_mark:         | Book    | [Learn JavaScript & jQuery](http://javascriptbook.com/)             | Jon Duckett |
 | :heavy_check_mark:         | Course  | [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s) | Brad Traversy |
-| :heavy_check_mark: | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
-| :heavy_check_mark: | Course  | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | Jonas Schmedtmann |
-| :heavy_check_mark: | In-Person Part-Time Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
+| :heavy_check_mark:         | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
+| :heavy_check_mark:         | Course  | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | Jonas Schmedtmann |
+| :heavy_check_mark:         | In-Person Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
+| :chart_with_upwards_trend: | Course  | [Interview Espresso - Algorithms](https://interviewespresso.com/)                           | Aaron Jack |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
 | :chart_with_upwards_trend: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
-| :heavy_check_mark: | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :chart_with_upwards_trend: | Book  | [Eloquent JavaScript](https://eloquentjavascript.net/) | Marijn Haverbeke |
-| :soon: | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
-| :soon: | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
+| :soon:                     | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
+| :soon:                     | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
 ## Tech Events/Workshops Attended
 | Event                                                                 | Date            |
