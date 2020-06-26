@@ -91,16 +91,16 @@ A log to track and share my web development progress, helpful resources, tech me
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## My Goals
+* [ ] Finish and graduate from the Udacity Front End Nanodegree program in July
 * [ ] Learn React
 * [ ] Build a project in React
 * [x] Learn a server-side language - Node.js
 * [x] Learn about Restful APIs
-* [x] Learn a build tool
-* [x] Make a habit of coding daily
-* [x] Take part in the [#100DaysOfCode](https://www.100daysofcode.com/) challenge 
+* [x] Learn a build tool - Webpack
+* [x] Make a habit of coding daily and take part in the [#100DaysOfCode](https://www.100daysofcode.com/) challenge 
 * [x] Design and build a portfolio website
 * [x] Create and start my own blog
-* [ ] Read about Test Driven Development
+* [ ] Learn about Test Driven Development
 * [ ] Complete a technical interview
 * [ ] Tell people I am a developer :smile:
 
