@@ -28,7 +28,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | Webpack                 | :star:                      |             |
 | Markdown                | :star:                      | :star:      |
 | Visual Studio Code      | :star:                      | :star:      |
-| Test Driven Development | :star:                      | :star:      |
+| Test Driven Development | :star:                      |             |
 
 ## Learning Log
 | Progress                   | Type    | Title                                            | Tutor         |
@@ -89,7 +89,7 @@ A log to track and share my web development progress, helpful resources, tech me
 
 ### Documentation
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-* [SASS](https://sass-lang.com/documentation)
+* [Sass](https://sass-lang.com/documentation)
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## My Goals
