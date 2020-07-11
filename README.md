@@ -3,31 +3,32 @@
 A log to track and share my web development progress, helpful resources, tech meetups/workshops attended and my goals.
 
 ## Skills
-| Technical Skill       | Introduction / Dabbled With | Regular Use |
-|-----------------------|-----------------------------| ------------|
-| HTML5                 | :star:                      | :star:      |
-| CSS3                  | :star:                      | :star:      |
-| JavaScript            | :star:                      | :star:      |
-| ES6+                  | :star:                      | :star:      |
-| jQuery                | :star:                      |             |
-| Python                | :star:                      |             |
-| Bootstrap             | :star:                      | :star:      |
-| Sass                  | :star:                      | :star:      |
-| Responsive Web Design | :star:                      | :star:      |
-| SVG Animation         | :star:                      |             |
-| Git                   | :star:                      | :star:      |
-| Git Bash              | :star:                      | :star:      |
-| Command Line          | :star:                      | :star:      |
-| Github                | :star:                      | :star:      |
-| React                 |                             |             |
-| Redux                 |                             |             |
-| Working with APIs     | :star:                      |             |
-| NPM                   | :star:                      |             |
-| Node.js               | :star:                      |             |
-| Express.js            | :star:                      |             |
-| Webpack               | :star:                      |             |
-| Markdown              | :star:                      | :star:      |
-| Visual Studio Code    | :star:                      | :star:      |
+| Technical Skill         | Introduction / Dabbled With | Regular Use |
+|-------------------------|-----------------------------| ------------|
+| HTML5                   | :star:                      | :star:      |
+| CSS3                    | :star:                      | :star:      |
+| JavaScript              | :star:                      | :star:      |
+| ES6+                    | :star:                      | :star:      |
+| jQuery                  | :star:                      |             |
+| Python                  | :star:                      |             |
+| Bootstrap               | :star:                      | :star:      |
+| Sass                    | :star:                      | :star:      |
+| Responsive Web Design   | :star:                      | :star:      |
+| SVG Animation           | :star:                      |             |
+| Git                     | :star:                      | :star:      |
+| Git Bash                | :star:                      | :star:      |
+| Command Line            | :star:                      | :star:      |
+| Github                  | :star:                      | :star:      |
+| React                   |                             |             |
+| Redux                   |                             |             |
+| Working with APIs       | :star:                      |             |
+| NPM                     | :star:                      |             |
+| Node.js                 | :star:                      |             |
+| Express.js              | :star:                      |             |
+| Webpack                 | :star:                      |             |
+| Markdown                | :star:                      | :star:      |
+| Visual Studio Code      | :star:                      | :star:      |
+| Test Driven Development | :star:                      | :star:      |
 
 ## Learning Log
 | Progress                   | Type    | Title                                            | Tutor         |
