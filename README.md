@@ -102,7 +102,7 @@ A log to track and share my web development progress, helpful resources, tech me
 * [x] Make a habit of coding daily and take part in the [#100DaysOfCode](https://www.100daysofcode.com/) challenge 
 * [x] Design and build a portfolio website
 * [x] Create and start my own blog
-* [ ] Learn about Test Driven Development
+* [x] Learn about Test Driven Development
 * [ ] Complete a technical interview
 * [ ] Tell people I am a developer :smile:
 
