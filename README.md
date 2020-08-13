@@ -19,7 +19,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | Git Bash                | :star:                      | :star:      |
 | Command Line            | :star:                      | :star:      |
 | Github                  | :star:                      | :star:      |
-| React                   |                             |             |
+| React                   | :star:                      |             |
 | Redux                   |                             |             |
 | Working with APIs       | :star:                      |             |
 | NPM                     | :star:                      |             |
