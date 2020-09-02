@@ -51,7 +51,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | :chart_with_upwards_trend: | Course  | [FCC Front End Libraries](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :chart_with_upwards_trend: | Course  | [Interview Espresso - Algorithms](https://interviewespresso.com/)                           | Aaron Jack |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
-| :chart_with_upwards_trend: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
+| :heavy_check_mark: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 | :chart_with_upwards_trend: | Book    | [Test Driven Development By Example](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0ZXN0MTIzNHNpbTQ2NXxneDpiYTJmYWIwYTAyOGJiZmQ) | Kent Beck |
 | :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :chart_with_upwards_trend: | Book  | [Eloquent JavaScript](https://eloquentjavascript.net/) | Marijn Haverbeke |
@@ -93,7 +93,7 @@ A log to track and share my web development progress, helpful resources, tech me
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## My Goals
-* [ ] Finish and graduate from the Udacity Front End Nanodegree program in July
+* [x] Finish and graduate from the Udacity Front End Nanodegree program in July
 * [ ] Learn React
 * [ ] Build a project in React
 * [x] Learn a server-side language - Node.js
