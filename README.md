@@ -58,6 +58,14 @@ A log to track and share my web development progress, helpful resources, tech me
 | :soon:                     | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
 | :soon:                     | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
+## Certificates
+| Course                                                                 | Date            |
+|-----------------------------------------------------------------------|-----------------|
+| [Udacity Front End Web Developer Nanodegree](https://confirm.udacity.com/SSRLDG9L)    | 2 September 2020        |
+| [FreeCodeCampJavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/toowee/javascript-algorithms-and-data-structures)    | June 2020        |
+| [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/toowee/responsive-web-design)    | October 2019        |
+
+
 ## Tech Events/Workshops Attended
 | Event                                                                 | Date            |
 |-----------------------------------------------------------------------|-----------------|
