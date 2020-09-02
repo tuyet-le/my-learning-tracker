@@ -62,10 +62,10 @@ A log to track and share my web development progress, helpful resources, tech me
 | Course Certificates                                                                 | Date            |
 |-----------------------------------------------------------------------|-----------------|
 | [Udacity Front End Web Developer Nanodegree](https://confirm.udacity.com/SSRLDG9L)    | 2 Sep 2020        |
-| [freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/toowee/javascript-algorithms-and-data-structures)    | June 2020        |
+| [freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/toowee/javascript-algorithms-and-data-structures)    | 16 Jun 2020        |
 | [Code First Girls Introduction to Python Programming](https://drive.google.com/file/d/1KwlRkrGnvPfEGlMB1I5042oQPUMqn1Wo/view?usp=sharing)    | Apr 2020        |
-| [Code First Girls Introduction to Web Development](hhttps://drive.google.com/file/d/1nPsyHOyzwbzp3Z-lQIPrgbHqazttGSK_/view?usp=sharing)    | 2 September 2020        |
-| [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/toowee/responsive-web-design)    | Oct 2019        |
+| [Code First Girls Introduction to Web Development](https://drive.google.com/file/d/1nPsyHOyzwbzp3Z-lQIPrgbHqazttGSK_/view?usp=sharing)    | Dec 2019        |
+| [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/toowee/responsive-web-design)    | 8 Nov 2019        |
 
 
 ## Tech Events/Workshops Attended
