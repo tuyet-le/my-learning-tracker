@@ -59,17 +59,20 @@ A log to track and share my web development progress, helpful resources, tech me
 | :soon:                     | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
 ## Certificates
-| Course                                                                 | Date            |
+| Course Certificates                                                                 | Date            |
 |-----------------------------------------------------------------------|-----------------|
-| [Udacity Front End Web Developer Nanodegree](https://confirm.udacity.com/SSRLDG9L)    | 2 September 2020        |
-| [FreeCodeCampJavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/toowee/javascript-algorithms-and-data-structures)    | June 2020        |
-| [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/toowee/responsive-web-design)    | October 2019        |
+| [Udacity Front End Web Developer Nanodegree](https://confirm.udacity.com/SSRLDG9L)    | 2 Sep 2020        |
+| [freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/toowee/javascript-algorithms-and-data-structures)    | June 2020        |
+| [Code First Girls Introduction to Python Programming](https://drive.google.com/file/d/1KwlRkrGnvPfEGlMB1I5042oQPUMqn1Wo/view?usp=sharing)    | Apr 2020        |
+| [Code First Girls Introduction to Web Development](hhttps://drive.google.com/file/d/1nPsyHOyzwbzp3Z-lQIPrgbHqazttGSK_/view?usp=sharing)    | 2 September 2020        |
+| [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/toowee/responsive-web-design)    | Oct 2019        |
 
 
 ## Tech Events/Workshops Attended
 | Event                                                                 | Date            |
 |-----------------------------------------------------------------------|-----------------|
-| [Codebar Virtual Workshop Pair Programming](https://codebar.io/)    | 3 June 2020        |
+| [Code Fest 2020](https://codefirstgirls.org.uk/code-fest-girls-2020/#:~:text=Kickstart%20Your%20Career,teams%2C%20and%20influential%20hiring%20experts.)    | Sep 2020        |
+| [Codebar Virtual Workshop Pair Programming](https://codebar.io/)    | 3 Jun 2020        |
 | [Makers x Girls in Tech: How To Set Coding Goals And Stick To Them](https://www.eventbrite.co.uk/e/makers-x-girls-in-tech-how-to-set-coding-goals-and-stick-to-them-tickets-103707341450) | May 2020 |
 | [Virtual Codebar Monthlies](https://codebar.io/) | May 2020 |
 | [Free Code Camp Lockdown Conference](https://www.youtube.com/watch?v=l8K0B270cgE&t=3574s)| Apr 2020        | 
