@@ -56,7 +56,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | :chart_with_upwards_trend: | Book    | [Test Driven Development By Example](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0ZXN0MTIzNHNpbTQ2NXxneDpiYTJmYWIwYTAyOGJiZmQ) | Kent Beck |
 | :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :chart_with_upwards_trend: | Book  | [Eloquent JavaScript](https://eloquentjavascript.net/) | Marijn Haverbeke |
-| :heavy_check_mark:         | Remote Course  | [Code First: Girls - Introduction to Databases & SQL](https://codefirstgirls.org.uk/learners/intro-to-databases-and-sql/)        | Code First Girls |
+| :soon:         | Remote Course  | [Code First: Girls - Introduction to Databases & SQL](https://codefirstgirls.org.uk/learners/intro-to-databases-and-sql/)        | Code First Girls |
 | :soon:                     | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
 | :soon:                     | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
