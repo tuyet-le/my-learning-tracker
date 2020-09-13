@@ -24,7 +24,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | Working with APIs       | :star:                      |             |
 | NPM                     | :star:                      |             |
 | Node.js                 | :star:                      |             |
-| Express.js              | :star:                      |             |
+| Express.                | :star:                      |             |
 | Webpack                 | :star:                      |             |
 | Markdown                | :star:                      | :star:      |
 | Visual Studio Code      | :star:                      | :star:      |
@@ -39,7 +39,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | :heavy_check_mark:         | Course  | [Introduction to CSS](https://www.codecademy.com/learn/learn-css)   | Codecademy |
 | :heavy_check_mark:         | Course  | [HTML & CSS](https://internetingishard.com/)                        | Interneting Is Hard |
 | :heavy_check_mark:         | Game    | [Flexbox Froggy](http://flexboxfroggy.com/)                         | Flexbox Froggy |
-| :heavy_check_mark:         | In-Person Course  | [Code First: Girls - Introduction to Web Development](https://www.codefirstgirls.org.uk/) | Code First: Girls |
+| :heavy_check_mark:         | In-Person Course  | [Code First: Girls - Introduction to Web Development](https://www.codefirstgirls.org.uk/) | Code First Girls |
 | :heavy_check_mark:         | Course  | [FCC Responsive Web Design](https://www.freecodecamp.org/toowee)        | freeCodeCamp |
 | :heavy_check_mark:         | Course  | [FCC JavaScript Basic Algorithms and Data Structures](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :heavy_check_mark:         | Course  | [Watch and Code - Practical JavaScript](https://watchandcode.com/p/practical-javascript) | Gordon Zhu |
@@ -47,14 +47,16 @@ A log to track and share my web development progress, helpful resources, tech me
 | :heavy_check_mark:         | Course  | [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s) | Brad Traversy |
 | :heavy_check_mark:         | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
 | :heavy_check_mark:         | Course  | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | Jonas Schmedtmann |
-| :heavy_check_mark:         | In-Person Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First: Girls |
+| :heavy_check_mark:         | In-Person Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First Girls |
+| :heavy_check_mark: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 | :chart_with_upwards_trend: | Course  | [FCC Front End Libraries](https://www.freecodecamp.org/toowee) | freeCodeCamp |
+| :chart_with_upwards_trend: | Course  | [Mastering React](https://codewithmosh.com/) | Mosh Hamedani |
 | :chart_with_upwards_trend: | Course  | [Interview Espresso - Algorithms](https://interviewespresso.com/)                           | Aaron Jack |
 | :chart_with_upwards_trend: | Course  | [JavaScript30](https://javascript30.com/)                           | Wes Bos |
-| :heavy_check_mark: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 | :chart_with_upwards_trend: | Book    | [Test Driven Development By Example](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0ZXN0MTIzNHNpbTQ2NXxneDpiYTJmYWIwYTAyOGJiZmQ) | Kent Beck |
 | :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :chart_with_upwards_trend: | Book  | [Eloquent JavaScript](https://eloquentjavascript.net/) | Marijn Haverbeke |
+| :heavy_check_mark:         | Remote Course  | [Code First: Girls - Introduction to Databases & SQL](https://codefirstgirls.org.uk/learners/intro-to-databases-and-sql/)        | Code First Girls |
 | :soon:                     | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
 | :soon:                     | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
@@ -75,7 +77,6 @@ A log to track and share my web development progress, helpful resources, tech me
 * [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Gordon Zhu
 * [freeCodeCamp Forum](https://www.freecodecamp.org/forum/)
 
-
 ### JavaScript
 * [Go Make Things](https://gomakethings.com/) - weekly short emails with really helpful code snippets, tools and techniques on JavaScript
 * [The Modern JavaScript Tutorial](https://javascript.info/) - my go to resource if I need to look up something with easy to follow examples
@@ -94,9 +95,9 @@ A log to track and share my web development progress, helpful resources, tech me
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## My Goals
-* [x] Finish and graduate from the Udacity Front End Nanodegree program in July
 * [ ] Learn React
 * [ ] Build a project in React
+* [x] Graduate from the Udacity Front End Web Developer Nanodegree program
 * [x] Learn a server-side language - Node.js
 * [x] Learn about Restful APIs
 * [x] Learn a build tool - Webpack
