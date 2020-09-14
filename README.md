@@ -60,8 +60,6 @@ A log to track and share my web development progress, helpful resources, tech me
 | :soon:                     | Course  | [Asynchronous JavaScript Requests (AJAX)](https://www.udacity.com/course/asynchronous-javascript-requests--ud109) | Udacity |
 | :soon:                     | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
-## Practising Programming
-
 
 ## Tech Events/Workshops Attended
 | Event                                                                 | Date            |
