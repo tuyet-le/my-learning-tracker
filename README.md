@@ -24,7 +24,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | Working with APIs       | :star:                      |             |
 | NPM                     | :star:                      |             |
 | Node.js                 | :star:                      |             |
-| Express.                | :star:                      |             |
+| Express                | :star:                      |             |
 | Webpack                 | :star:                      |             |
 | Markdown                | :star:                      | :star:      |
 | Visual Studio Code      | :star:                      | :star:      |
