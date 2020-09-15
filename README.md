@@ -64,6 +64,7 @@ A log to track and share my web development progress, helpful resources, tech me
 ## Tech Events/Workshops Attended
 | Event                                                                 | Date            |
 |-----------------------------------------------------------------------|-----------------|
+| [Code First Girls Career Nav Apply & Interview Session](https://codefirstgirls.org.uk/code-fest-girls-2020/)    | Sep 2020        |
 | [Code First Girls Career Nav Search Session](https://codefirstgirls.org.uk/code-fest-girls-2020/)    | Sep 2020        |
 | [Code Fest 2020](https://codefirstgirls.org.uk/code-fest-girls-2020/#:~:text=Kickstart%20Your%20Career,teams%2C%20and%20influential%20hiring%20experts.)    | Sep 2020        |
 | [Codebar Virtual Workshop Pair Programming](https://codebar.io/)    | 3 Jun 2020        |
