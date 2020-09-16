@@ -28,7 +28,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | Visual Studio Code      | :star:                      | :star:      |
 | Test Driven Development | :star:                      |             |
 
-## Learning Log
+## My Learning Resources
 | Progress                   | Type    | Title                                            | Tutor         |
 |----------------------------|---------| -------------------------------------------------|---------------|
 | :heavy_check_mark:         | Blog    | [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english) | Red Badger |
