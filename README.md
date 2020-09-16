@@ -91,6 +91,7 @@ A log to track and share my web development progress, helpful resources, tech me
 * [CodeNewbie](https://saron.io/) - Saron Yitbarek
 
 ### Documentation
+* [React](https://reactjs.org/docs/getting-started.html)
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Sass](https://sass-lang.com/documentation)
 * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -98,7 +99,7 @@ A log to track and share my web development progress, helpful resources, tech me
 ## My Goals
 * [ ] Learn React
 * [ ] Learn Redux
-* [ ] Build a project in React
+* [ ] Build a project with React
 * [ ] Contribute in an open-source project
 * [x] Graduate from the Udacity Front End Web Developer Nanodegree program
 * [x] Learn a server-side language - Node.js
