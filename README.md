@@ -7,25 +7,23 @@ A log to track and share my web development progress, helpful resources, tech me
 |-------------------------|-----------------------------| ------------|
 | HTML5                   | :star:                      | :star:      |
 | CSS3                    | :star:                      | :star:      |
+| Sass                    | :star:                      | :star:      |
 | JavaScript              | :star:                      | :star:      |
 | ES6+                    | :star:                      | :star:      |
 | jQuery                  | :star:                      |             |
-| Python                  | :star:                      |             |
 | Bootstrap               | :star:                      | :star:      |
-| Sass                    | :star:                      | :star:      |
+| React                   | :star:                      |             |
+| Redux                   |                             |             |
+| Python                  | :star:                      |             |
+| Working with APIs       | :star:                      |             |
+| Node.js                 | :star:                      |             |
+| Express                 | :star:                      |             |
+| Webpack                 | :star:                      |             |
+| Command Line            | :star:                      | :star:      |
 | Responsive Web Design   | :star:                      | :star:      |
 | SVG Animation           | :star:                      |             |
 | Git                     | :star:                      | :star:      |
-| Git Bash                | :star:                      | :star:      |
-| Command Line            | :star:                      | :star:      |
 | Github                  | :star:                      | :star:      |
-| React                   | :star:                      |             |
-| Redux                   |                             |             |
-| Working with APIs       | :star:                      |             |
-| NPM                     | :star:                      |             |
-| Node.js                 | :star:                      |             |
-| Express                | :star:                      |             |
-| Webpack                 | :star:                      |             |
 | Markdown                | :star:                      | :star:      |
 | Visual Studio Code      | :star:                      | :star:      |
 | Test Driven Development | :star:                      |             |
@@ -99,7 +97,9 @@ A log to track and share my web development progress, helpful resources, tech me
 
 ## My Goals
 * [ ] Learn React
+* [ ] Learn Redux
 * [ ] Build a project in React
+* [ ] Contribute in an open-source project
 * [x] Graduate from the Udacity Front End Web Developer Nanodegree program
 * [x] Learn a server-side language - Node.js
 * [x] Learn about Restful APIs
@@ -108,8 +108,8 @@ A log to track and share my web development progress, helpful resources, tech me
 * [x] Design and build a portfolio website
 * [x] Create and start my own blog
 * [x] Learn about Test Driven Development
-* [ ] Complete a technical interview
-* [ ] Tell people I am a developer :smile:
+* [x] Complete a technical test
+* [ ] Tell people I am officially a developer :smile:
 
 ## Acknowledgements
 This was inspired by [Syk Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) via his [Medium](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/) post for freeCodeCamp and [Shovan Chatterjee's Full Stack Web Developer Path](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
