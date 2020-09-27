@@ -14,6 +14,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | Bootstrap               | :star:                      | :star:      |
 | React                   | :star:                      |             |
 | Redux                   |                             |             |
+| Ruby                    | :star:                      |             |
 | Python                  | :star:                      |             |
 | Working with APIs       | :star:                      |             |
 | Node.js                 | :star:                      |             |
