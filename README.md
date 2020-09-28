@@ -49,6 +49,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | :heavy_check_mark:         | In-Person Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First Girls |
 | :heavy_check_mark: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 | :heavy_check_mark: | Course  | [Web Design for Web Developers](https://www.udemy.com/share/101rgEB0YddFhWQXw=/) | Jonas Schmedtmann |
+| :heavy_check_mark: | Course  | [Learn Ruby](https://www.codecademy.com/profiles/tuyet_le) | Codecademy |
 | :chart_with_upwards_trend: | Course  | [FCC Front End Libraries](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :chart_with_upwards_trend: | Course  | [Mastering React](https://codewithmosh.com/) | Mosh Hamedani |
 | :chart_with_upwards_trend: | Course  | [Interview Espresso - Algorithms](https://interviewespresso.com/)                           | Aaron Jack |
