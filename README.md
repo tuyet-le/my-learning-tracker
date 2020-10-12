@@ -134,4 +134,4 @@ I'm currently interested in and excited to learn further:
 * [ ] Tell people I am officially a software engineer :smile:
 
 ## Acknowledgements
-This was inspired by [Syk Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) via his [Medium](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/) post for freeCodeCamp and [Shovan Chatterjee's Full Stack Web Developer Path](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+This was inspired by [Syk Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) via his [Medium](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/) post for freeCodeCamp.
