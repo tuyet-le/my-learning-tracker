@@ -1,6 +1,9 @@
-# My Learning Tracker
+# My Learning Tracker by Tuyet Le
 
-My log to track and share my web development progress, helpful resources, courses, tech meetups/workshops I've attended and my interest and goals.
+My log to track and share my web development learning progress, helpful resources, courses, tech meetups/workshops I've attended and my goals.
+
+[Skills](#skills) | [Resources](#learning) | [Tech events attended](#events) | [Interests](#interests) | [Goals](#goals)  
+
 
 ## Skills
 | Technical Skill          | Introduction / Dabbled With | Regular Use |
@@ -35,7 +38,7 @@ My log to track and share my web development progress, helpful resources, course
 | Heroku                   | :star:                      | :star:      |
 
 
-## My Learning Resources
+## Learning
 | Progress                   | Type    | Title                                            | Tutor         |
 |----------------------------|---------| -------------------------------------------------|---------------|
 | :heavy_check_mark:         | Blog    | [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english) | Red Badger |
@@ -66,8 +69,8 @@ My log to track and share my web development progress, helpful resources, course
 | :chart_with_upwards_trend:         | Remote Course  | [Code First: Girls - Introduction to Databases & SQL](https://codefirstgirls.org.uk/learners/intro-to-databases-and-sql/)        | Code First Girls |
 | :soon:                     | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
-## Tech Events/Workshops Attended
-| Event                                                                                                           | Date            |
+## Events
+| Tech Event Attended                                                                                             | Date            |
 |-----------------------------------------------------------------------------------------------------------------|-----------------|
 | [Code First Girls Career Nav Apply & Interview Session](https://codefirstgirls.org.uk/code-fest-girls-2020/)    | Sep 2020        |
 | [Code First Girls Career Nav Search Session](https://codefirstgirls.org.uk/code-fest-girls-2020/)               | Sep 2020        |
@@ -79,6 +82,29 @@ My log to track and share my web development progress, helpful resources, course
 | [Codebar, London](https://codebar.io/)                                | Jan 2020        | 
 | [You Got This Conference, Birmingham](https://2020.yougotthis.io/)    | Jan 2020        |
 
+## Helpful Resources
+**Blogs**
+* [Learn to code in 2020](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/) - Zero To Mastery
+* [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Gordon Zhu
+
+**JavaScript**
+* [Go Make Things](https://gomakethings.com/) - weekly short emails with really helpful code snippets, tools and techniques on JavaScript
+* [The Modern JavaScript Tutorial](https://javascript.info/) - my go to resource if I need to look up something with easy to follow examples
+
+**UI & Design**
+* [Icons8](https://icons8.com/)
+* [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
+* [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149)
+
+**Podcasts**
+* [CodeNewbie](https://saron.io/) - Saron Yitbarek
+
+**Documentation**
+* [React](https://reactjs.org/docs/getting-started.html)
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+* [Sass](https://sass-lang.com/documentation)
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## Interests
 I'm currently interested in and excited to learn further:
 * React
@@ -87,30 +113,7 @@ I'm currently interested in and excited to learn further:
 * Agile processes
 * Testing
 
-## Helpful Resources
-### Blogs
-* [Learn to code in 2020](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/) - Zero To Mastery
-* [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Gordon Zhu
-
-### JavaScript
-* [Go Make Things](https://gomakethings.com/) - weekly short emails with really helpful code snippets, tools and techniques on JavaScript
-* [The Modern JavaScript Tutorial](https://javascript.info/) - my go to resource if I need to look up something with easy to follow examples
-
-### UI & Design
-* [Icons8](https://icons8.com/)
-* [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
-* [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149)
-
-### Podcasts
-* [CodeNewbie](https://saron.io/) - Saron Yitbarek
-
-### Documentation
-* [React](https://reactjs.org/docs/getting-started.html)
-* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-* [Sass](https://sass-lang.com/documentation)
-* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-## My Goals
+## Goals
 * [ ] Reach 1kyu on Codewars!
 * [ ] Contribute in an open-source project
 * [x] Learn React
