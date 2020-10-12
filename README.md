@@ -2,7 +2,7 @@
 
 A log to track and share my web development progress, helpful resources, tech meetups/workshops I've attended and my goals.
 
-[Skills](#skills) | [Resources](#learning) | [Tech events attended](#events) | [Interests](#interests) | [Goals](#goals)  
+[Skills](#skills) | [My learning progress](#learning) | [Tech events attended](#events) | [Helpful resources](#resources) | [Interests](#interests) | [Goals](#goals)  
 
 
 ## Skills
@@ -82,10 +82,13 @@ A log to track and share my web development progress, helpful resources, tech me
 | [Codebar, London](https://codebar.io/)                                | Jan 2020        | 
 | [You Got This Conference, Birmingham](https://2020.yougotthis.io/)    | Jan 2020        |
 
-## Helpful Resources
+## Resources
 **Blogs**
 * [Learn to code in 2020](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/) - Zero To Mastery
 * [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Gordon Zhu
+
+**Books**
+* [Learn to Program](https://pine.fm/LearnToProgram/) - Chris Pine
 
 **JavaScript**
 * [Go Make Things](https://gomakethings.com/) - weekly short emails with really helpful code snippets, tools and techniques on JavaScript
