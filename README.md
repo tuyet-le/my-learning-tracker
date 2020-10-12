@@ -1,6 +1,6 @@
-# My Learning Tracker by Tuyet Le
+# My Learning Tracker
 
-My log to track and share my web development learning progress, helpful resources, courses, tech meetups/workshops I've attended and my goals.
+A log to track and share my web development progress, helpful resources, tech meetups/workshops I've attended and my goals.
 
 [Skills](#skills) | [Resources](#learning) | [Tech events attended](#events) | [Interests](#interests) | [Goals](#goals)  
 
