@@ -64,9 +64,9 @@ A log to track and share my web development progress, helpful resources, tech me
 | :chart_with_upwards_trend:   | Course  | [FCC Front End Libraries](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :chart_with_upwards_trend:   | Course  | [Mastering React](https://codewithmosh.com/) | Mosh Hamedani |
 | :chart_with_upwards_trend:   | Course  | [Interview Espresso - Algorithms](https://interviewespresso.com/)                           | Aaron Jack |
-| :chart_with_upwards_trend:   | Course  | [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)                           | Colt Steele |
+| :chart_with_upwards_trend:   | Course  | [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) | Colt Steele |
 | :chart_with_upwards_trend:   | Book    | [Test Driven Development By Example](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0ZXN0MTIzNHNpbTQ2NXxneDpiYTJmYWIwYTAyOGJiZmQ) | Kent Beck |
-| :chart_with_upwards_trend:   | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
+| :chart_with_upwards_trend:   | Course  | [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :chart_with_upwards_trend:   | Book  | [Eloquent JavaScript](https://eloquentjavascript.net/) | Marijn Haverbeke |
 | :soon:                       | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
@@ -104,7 +104,7 @@ A log to track and share my web development progress, helpful resources, tech me
 **JavaScript**
 * [Go Make Things](https://gomakethings.com/) - weekly short emails with really helpful code snippets, tools and techniques on JavaScript
 * [The Modern JavaScript Tutorial](https://javascript.info/) - my go to resource if I need to look up something with easy to follow examples
-* [wes Bos JavaScript30](https://javascript30.com/)
+* [Wes Bos JavaScript30](https://javascript30.com/)
 
 **Documentation**
 * [React](https://reactjs.org/docs/getting-started.html)
