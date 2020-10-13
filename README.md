@@ -36,6 +36,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | Jira                     |                             |             |
 | Open Source Contribution |                             |             |
 | Heroku                   | :star:                      | :star:      |
+| Netlify                  | :star:                      | :star:      |
 
 
 ## Learning
@@ -101,6 +102,7 @@ A log to track and share my web development progress, helpful resources, tech me
 
 **Podcasts**
 * [CodeNewbie](https://saron.io/) - Saron Yitbarek
+* [We Belong Podcast(https://webelongpodcast.com/)
 
 **Documentation**
 * [React](https://reactjs.org/docs/getting-started.html)
