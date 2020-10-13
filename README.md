@@ -2,7 +2,7 @@
 
 A log to track and share my web development progress, helpful resources, tech meetups/workshops I've attended and my goals.
 
-[Skills](#skills) | [My learning progress](#learning) | [Tech events attended](#events) | [Helpful resources](#resources) | [Interests](#interests) | [Goals](#goals)  
+[Skills](#skills) | [My Learning Progress](#learning) | [Tech Events Attended](#events) | [Helpful Resources](#resources) | [Interests](#interests) | [Goals](#goals)  
 
 
 ## Skills
@@ -95,6 +95,12 @@ A log to track and share my web development progress, helpful resources, tech me
 * [Go Make Things](https://gomakethings.com/) - weekly short emails with really helpful code snippets, tools and techniques on JavaScript
 * [The Modern JavaScript Tutorial](https://javascript.info/) - my go to resource if I need to look up something with easy to follow examples
 
+**Documentation**
+* [React](https://reactjs.org/docs/getting-started.html)
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+* [Sass](https://sass-lang.com/documentation)
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 **UI & Design**
 * [Icons8](https://icons8.com/)
 * [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
@@ -102,13 +108,13 @@ A log to track and share my web development progress, helpful resources, tech me
 
 **Podcasts**
 * [CodeNewbie](https://saron.io/) - Saron Yitbarek
-* [We Belong Podcast(https://webelongpodcast.com/)
+* [We Belong Podcast](https://webelongpodcast.com/)
 
-**Documentation**
-* [React](https://reactjs.org/docs/getting-started.html)
-* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-* [Sass](https://sass-lang.com/documentation)
-* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+**Awesome Tech Communities**
+* [codebar](https://codebar.io/) - free coding workshops with one-to-one support with a coach
+* [Code First Girls](https://codefirstgirls.org.uk/) - a virbrant community with free introductory courses for women in Web Development, Python and SQL
+* [#100DaysOfCode on Twitter](https://twitter.com/search?q=%23100daysofcode&src=typed_query) - a very supportive platform to hold yourself accountable to when learning to code
+* [Makers](https://www.eventbrite.co.uk/o/makers-4400073409) - the UK's best bootcamp hold frequent free coding masterclass workshops and events
 
 ## Interests
 I'm currently interested in and excited to learn further:
