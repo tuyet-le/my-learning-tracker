@@ -67,7 +67,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | :chart_with_upwards_trend: | Book    | [Test Driven Development By Example](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0ZXN0MTIzNHNpbTQ2NXxneDpiYTJmYWIwYTAyOGJiZmQ) | Kent Beck |
 | :chart_with_upwards_trend: | Course  | [Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :chart_with_upwards_trend: | Book  | [Eloquent JavaScript](https://eloquentjavascript.net/) | Marijn Haverbeke |
-| :chart_with_upwards_trend:         | Remote Course  | [Code First: Girls - Introduction to Databases & SQL](https://codefirstgirls.org.uk/learners/intro-to-databases-and-sql/)        | Code First Girls |
+| :chart_with_upwards_trend:         | Remote Course  | [Code First: Girls - Introduction to Data Sciene & SQL Programming](https://codefirstgirls.org.uk/learners/intro-to-databases-and-sql/)        | Code First Girls |
 | :soon:                     | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
 ## Events
@@ -84,9 +84,19 @@ A log to track and share my web development progress, helpful resources, tech me
 | [You Got This Conference, Birmingham](https://2020.yougotthis.io/)    | Jan 2020        |
 
 ## Resources
+**Awesome Tech Communities**
+* [codebar](https://codebar.io/) - free coding workshops with one-to-one support with a coach
+* [Code First Girls](https://codefirstgirls.org.uk/) - a virbrant community with free introductory courses for women in Web Development, Python and SQL
+* [#100DaysOfCode on Twitter](https://twitter.com/search?q=%23100daysofcode&src=typed_query) - a very supportive platform to hold yourself accountable to when learning to code
+* [Makers](https://www.eventbrite.co.uk/o/makers-4400073409) - the UK's best bootcamp hold frequent free coding masterclass workshops and events
+
 **Blogs**
 * [Learn to code in 2020](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/) - Zero To Mastery
 * [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Gordon Zhu
+
+**Podcasts**
+* [CodeNewbie](https://saron.io/) - Saron Yitbarek
+* [We Belong Podcast](https://webelongpodcast.com/)
 
 **Books**
 * [Learn to Program](https://pine.fm/LearnToProgram/) - Chris Pine
@@ -106,16 +116,6 @@ A log to track and share my web development progress, helpful resources, tech me
 * [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
 * [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149)
 
-**Podcasts**
-* [CodeNewbie](https://saron.io/) - Saron Yitbarek
-* [We Belong Podcast](https://webelongpodcast.com/)
-
-**Awesome Tech Communities**
-* [codebar](https://codebar.io/) - free coding workshops with one-to-one support with a coach
-* [Code First Girls](https://codefirstgirls.org.uk/) - a virbrant community with free introductory courses for women in Web Development, Python and SQL
-* [#100DaysOfCode on Twitter](https://twitter.com/search?q=%23100daysofcode&src=typed_query) - a very supportive platform to hold yourself accountable to when learning to code
-* [Makers](https://www.eventbrite.co.uk/o/makers-4400073409) - the UK's best bootcamp hold frequent free coding masterclass workshops and events
-
 ## Interests
 I'm currently interested in and excited to learn further:
 * React
@@ -125,7 +125,7 @@ I'm currently interested in and excited to learn further:
 * Testing
 
 ## Goals
-* [ ] Reach 1kyu on Codewars!
+* [ ] Reach 1Kyu on Codewars!
 * [ ] Contribute in an open-source project
 * [x] Learn React
 * [x] Learn Redux
