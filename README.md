@@ -140,7 +140,7 @@ I'm currently interested in and excited to learn further:
 * [x] Create and start my own blog
 * [x] Learn about Test Driven Development
 * [x] Complete a technical test
-* [ ] Tell people I am officially a software engineer :smile:
+* [x] Tell people I am officially a software developer :smile:
 
 ## Acknowledgements
 This was inspired by [Syk Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) via his [Medium](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/) post for freeCodeCamp.
