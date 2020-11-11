@@ -60,6 +60,7 @@ A log to track and share my web development progress, helpful resources, tech me
 | :heavy_check_mark: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 | :heavy_check_mark: | Course  | [Web Design for Web Developers](https://www.udemy.com/share/101rgEB0YddFhWQXw=/) | Jonas Schmedtmann |
 | :heavy_check_mark: | Course  | [Learn Ruby](https://www.codecademy.com/profiles/tuyet_le) | Codecademy |
+| :heavy_check_mark: | Course  | [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming) | Linkedin Learning |
 | :chart_with_upwards_trend:   | Remote Course | [Code First: Girls - Introduction to Data Science & SQL Programming](https://codefirstgirls.org.uk/learners/intro-to-databases-and-sql/) | Code First Girls |
 | :chart_with_upwards_trend:   | Course  | [FCC Front End Libraries](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :chart_with_upwards_trend:   | Course  | [Mastering React](https://codewithmosh.com/) | Mosh Hamedani |
@@ -68,7 +69,6 @@ A log to track and share my web development progress, helpful resources, tech me
 | :chart_with_upwards_trend:   | Book    | [Test Driven Development By Example](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx0ZXN0MTIzNHNpbTQ2NXxneDpiYTJmYWIwYTAyOGJiZmQ) | Kent Beck |
 | :chart_with_upwards_trend:   | Course  | [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :chart_with_upwards_trend:   | Book  | [Eloquent JavaScript](https://eloquentjavascript.net/) | Marijn Haverbeke |
-| :soon:                       | Course  | [Udemy - Modern React with Redux](https://www.udemy.com/course/react-redux/) | Stephen Grider |
 
 ## Events
 | Tech Event Attended                                                                                             | Date            |
