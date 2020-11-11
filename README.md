@@ -122,6 +122,7 @@ I'm currently interested in and excited to learn further:
 * React
 * Data Structures and Algorithms
 * AWS
+* DevOps
 * Agile processes
 * Testing
 
