@@ -6,7 +6,7 @@ A log to track and share my web development progress, helpful resources, tech me
 
 
 ## Skills
-| Technical Skill          | Introduction / Dabbled With | Regular Use |
+| Technical                | Introduction / Dabbled with | Regular use |
 |--------------------------|-----------------------------| ------------|
 | HTML5                    | :star:                      | :star:      |
 | CSS3                     | :star:                      | :star:      |
@@ -17,10 +17,11 @@ A log to track and share my web development progress, helpful resources, tech me
 | Bootstrap                | :star:                      | :star:      |
 | React                    | :star:                      |             |
 | Redux                    | :star:                      |             |
-| Ruby                     | :star:                      |             |
+| Ruby                     | :star:                      | :star:      |
 | Python                   | :star:                      |             |
 | Working with APIs        | :star:                      |             |
 | Node.js                  | :star:                      |             |
+| Sinatra                  | :star:                      |             |
 | Express                  | :star:                      |             |
 | Webpack                  | :star:                      |             |
 | Parcel                   | :star:                      |             |
@@ -60,8 +61,9 @@ A log to track and share my web development progress, helpful resources, tech me
 | :heavy_check_mark: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 | :heavy_check_mark: | Course  | [Web Design for Web Developers](https://www.udemy.com/share/101rgEB0YddFhWQXw=/) | Jonas Schmedtmann |
 | :heavy_check_mark: | Course  | [Learn Ruby](https://www.codecademy.com/profiles/tuyet_le) | Codecademy |
-| :heavy_check_mark: | Course  | [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming) | Linkedin Learning |
-| :chart_with_upwards_trend:   | Remote Course | [Code First: Girls - Introduction to Data Science & SQL Programming](https://codefirstgirls.org.uk/learners/intro-to-databases-and-sql/) | Code First Girls |
+| :heavy_check_mark: | Course  | [Ruby Essential Training Part 1](https://www.linkedin.com/learning/ruby-essential-training-part-1-the-basics) | Kevin Skoglund |
+| :heavy_check_mark: | Course  | [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming) | Olivia Chiu Stone and Barron Stone |
+| :chart_with_upwards_trend: | Bootcamp  | [Makers x Expedia Software Engineer/DevOps Apprenticeship](https://makers.tech/) | Makers Academy Bootcamp |
 | :chart_with_upwards_trend:   | Course  | [FCC Front End Libraries](https://www.freecodecamp.org/toowee) | freeCodeCamp |
 | :chart_with_upwards_trend:   | Course  | [Mastering React](https://codewithmosh.com/) | Mosh Hamedani |
 | :chart_with_upwards_trend:   | Course  | [Interview Espresso - Algorithms](https://interviewespresso.com/)                           | Aaron Jack |
@@ -101,11 +103,6 @@ A log to track and share my web development progress, helpful resources, tech me
 **Books**
 * [Learn to Program](https://pine.fm/LearnToProgram/) - Chris Pine
 
-**JavaScript**
-* [Go Make Things](https://gomakethings.com/) - weekly short emails with really helpful code snippets, tools and techniques on JavaScript
-* [The Modern JavaScript Tutorial](https://javascript.info/) - my go to resource if I need to look up something with easy to follow examples
-* [Wes Bos JavaScript30](https://javascript30.com/)
-
 **Documentation**
 * [React](https://reactjs.org/docs/getting-started.html)
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
@@ -116,6 +113,11 @@ A log to track and share my web development progress, helpful resources, tech me
 * [Icons8](https://icons8.com/)
 * [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
 * [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149)
+
+**JavaScript**
+* [Go Make Things](https://gomakethings.com/) - weekly short emails with really helpful code snippets, tools and techniques on JavaScript
+* [The Modern JavaScript Tutorial](https://javascript.info/) - my go to resource if I need to look up something with easy to follow examples
+* [Wes Bos JavaScript30](https://javascript30.com/)
 
 ## Interests
 I'm currently interested in and excited to learn further:
