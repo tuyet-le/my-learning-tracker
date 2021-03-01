@@ -1,6 +1,6 @@
 # My Learning Tracker
 
-A log to track and share my web development progress, helpful resources, tech meetups/workshops I've attended and my goals.
+A journal to track and share my software development learning, helpful resources, tech meetups/workshops I've attended and my goals.
 
 [Skills](#skills) | [My Learning Progress](#learning) | [Tech Events Attended](#events) | [Helpful Resources](#resources) | [Interests](#interests) | [Goals](#goals)  
 
@@ -33,11 +33,9 @@ A log to track and share my web development progress, helpful resources, tech me
 | Markdown                 | :star:                      | :star:      |
 | Visual Studio Code       | :star:                      | :star:      |
 | Test Driven Development  | :star:                      |             |
-| Agile                    |                             |             |
-| Jira                     |                             |             |
-| Open Source Contribution |                             |             |
 | Heroku                   | :star:                      | :star:      |
 | Netlify                  | :star:                      | :star:      |
+| Docker                   | :star:                      |             |
 
 
 ## Learning
