@@ -36,6 +36,8 @@ A journal to track and share my software development learning, helpful resources
 | Heroku                   | :star:                      | :star:      |
 | Netlify                  | :star:                      | :star:      |
 | Docker                   | :star:                      |             |
+| Github Actions           | :star:                      |             |
+| Jenkins                  | :star:                      |             |
 
 
 ## Learning
@@ -119,7 +121,7 @@ A journal to track and share my software development learning, helpful resources
 
 ## Interests
 I'm currently interested in and excited to learn further:
-* React
+* Python
 * Data Structures and Algorithms
 * AWS
 * DevOps
