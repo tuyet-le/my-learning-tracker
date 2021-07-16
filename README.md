@@ -60,6 +60,7 @@ A journal to track and share my software development learning, helpful resources
 | :heavy_check_mark: | Course  | [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s) | Brad Traversy |
 | :heavy_check_mark: | Course  | [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) | SoloLean |
 | :heavy_check_mark: | Course  | [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) | Jonas Schmedtmann |
+| :heavy_check_mark: | Course  | [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
 | :heavy_check_mark: | Course  | [Code First: Girls - Introduction to Python Programming](https://www.codefirstgirls.org.uk/)        | Code First Girls |
 | :heavy_check_mark: | Course  | [Frontend Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) | Udacity |
 | :heavy_check_mark: | Course  | [Web Design for Web Developers](https://www.udemy.com/share/101rgEB0YddFhWQXw=/) | Jonas Schmedtmann |
@@ -69,8 +70,7 @@ A journal to track and share my software development learning, helpful resources
 | :heavy_check_mark: | Course  | [Ruby Essential Training](https://www.linkedin.com/learning/ruby-essential-training-part-1-the-basics) | Kevin Skoglund |
 | :heavy_check_mark: | Course  | [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming) | Olivia Chiu Stone and Barron Stone |
 | :heavy_check_mark: | Course  | [Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2) | Olivia Scott Simpson |
-| :heavy_check_mark: | Bootcamp  | [Makers Software Engineering & DevOps Apprenticeship](https://makers.tech/) | Makers Bootcamp |
-| :heavy_check_mark: | Course  | [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/learn/lecture/2237542?start=345) | Anthony Alicea |
+| :heavy_check_mark: | Bootcamp  | [Makers Software Engineering & DevOps Apprenticeship](https://makers.tech/) | Makers |
 | :chart_with_upwards_trend: | Book    | [Linux Basics For Hackers](https://www.amazon.co.uk/Hackers-Getting-Networking-Scripting-Security/dp/1593278551) | OccupyTheWeb |
 | :chart_with_upwards_trend: | Course  | [Python Institute PCEP Entry-Level](https://pythoninstitute.org/certification/pcep-certification-entry-level/) | Python Institute |
 | :chart_with_upwards_trend: | Course  | [A Cloud Guru AWS Certified Cloud Practitioner](https://acloudguru.com/course/aws-certified-cloud-practitioner) | A Cloud Guru |
@@ -83,7 +83,7 @@ A journal to track and share my software development learning, helpful resources
 | [Code First Girls Career Nav Apply & Interview Session](https://codefirstgirls.org.uk/code-fest-girls-2020/)    | Sep 2020        |
 | [Code First Girls Career Nav Search Session](https://codefirstgirls.org.uk/code-fest-girls-2020/)               | Sep 2020        |
 | [Code Fest 2020](https://codefirstgirls.org.uk/code-fest-girls-2020/#:~:text=Kickstart%20Your%20Career,teams%2C%20and%20influential%20hiring%20experts.)  | Sep 2020        |
-| [Codebar Virtual Workshop Pair Programming](https://codebar.io/)                                                | 3 Jun 2020      |
+| [Codebar Virtual Workshop Pair Programming](https://codebar.io/)                                                | Jun 2020      |
 | [Makers x Girls in Tech: How To Set Coding Goals And Stick To Them](https://www.eventbrite.co.uk/e/makers-x-girls-in-tech-how-to-set-coding-goals-and-stick-to-them-tickets-103707341450)                            | May 2020        |
 | [Virtual Codebar Monthlies](https://codebar.io/)                                                                | May 2020        |
 | [Free Code Camp Lockdown Conference](https://www.youtube.com/watch?v=l8K0B270cgE&t=3574s)                       | Apr 2020        | 
@@ -93,7 +93,7 @@ A journal to track and share my software development learning, helpful resources
 ## Resources
 **Awesome Tech Communities**
 * [codebar](https://codebar.io/) - free coding workshops with one-to-one support with a coach
-* [Code First Girls](https://codefirstgirls.org.uk/) - a virbrant community with free introductory courses for women in Web Development, Python and SQL
+* [Code First Girls](https://codefirstgirls.org.uk/) - free introductory courses for women in Web Development, Python and SQL
 * [#100DaysOfCode on Twitter](https://twitter.com/search?q=%23100daysofcode&src=typed_query) - a very supportive platform to hold yourself accountable to when learning to code
 * [Makers](https://www.eventbrite.co.uk/o/makers-4400073409) - the UK's best bootcamp hold frequent free coding masterclass workshops and events
 
@@ -118,9 +118,9 @@ I'm currently interested in and excited to learn further:
 * Python
 * Data Structures and Algorithms
 * AWS
-* DevOps
+* DevOps best practices
 * Agile processes
-* Testing
+* Test-Driven Development
 
 ## Goals
 * [ ] Get AWS Certified! (Cloud Practitioner)
