@@ -14,7 +14,7 @@ Lists can be:
 
 ## Functions vs Methods
 
-A method is owned by the data it works for, while a function is owned by the whole code. Some examples of methods owned by lists:
+A method is owned by the data it works for, while a function is owned by the whole code where it gets data, may create new data and (generally) produces a result. Some examples of methods owned by lists:
 
 - `list.append(value)` - the append method adds a new element to the end of an existing list
 
