@@ -108,7 +108,9 @@ A journal to track and share my software development learning, helpful resources
 **Books**
 * [Learn to Program](https://pine.fm/LearnToProgram/) - Chris Pine
 
-**UI & Design**
+**UI & Web Design**
+* [Dribbble](https://dribbble.com/)
+* [UI-Patterns](http://ui-patterns.com/)
 * [Icons8](https://icons8.com/)
 * [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
 * [The Basic Principles of Web Design](https://www.freecodecamp.org/forum/t/the-basic-principles-of-web-design-introduction/316149)
