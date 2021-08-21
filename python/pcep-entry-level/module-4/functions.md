@@ -18,3 +18,19 @@ Information can be passed to functions by using parameters. It can have as many 
 * **Keyword argument passing** - the order of arguments passed doesn't matter
 
 * a mix of positional and keyword parameters can be combined. (Note: positional arguments must not follow keyword arguments)
+
+## `return` from a function
+
+To get functions to return a value, use the `return` keyword.
+
+Important notes:
+* If a function doesn't return a certain value using a `return` expression clause, it is assumed that it implicitly returns `None`. See example below:
+
+```
+def strange_function(n):
+    if (n % 2 == 0):
+        return True
+
+print(strange_function(2))   # outputs: True
+print(strange_function(1))   # outputs: None
+```
