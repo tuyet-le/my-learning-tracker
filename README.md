@@ -73,6 +73,8 @@ A journal to track and share my software development learning, helpful resources
 | :heavy_check_mark: | Bootcamp  | [Makers Software Engineering & DevOps Apprenticeship](https://makers.tech/) | Makers |
 
 ## Cloud Computing/DevOps Learning
+| Progress           | Type    | Title                                                                                                | Tutor         |
+|--------------------|---------| -----------------------------------------------------------------------------------------------------|---------------|
 | :chart_with_upwards_trend: | Book    | [Linux Basics For Hackers](https://www.amazon.co.uk/Hackers-Getting-Networking-Scripting-Security/dp/1593278551) | OccupyTheWeb |
 | :chart_with_upwards_trend: | Course  | [Python Institute PCEP Entry-Level](https://pythoninstitute.org/certification/pcep-certification-entry-level/) | Python Institute |
 | :chart_with_upwards_trend: | Course  | [A Cloud Guru AWS Certified Cloud Practitioner](https://acloudguru.com/course/aws-certified-cloud-practitioner) | A Cloud Guru |
