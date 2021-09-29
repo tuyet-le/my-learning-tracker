@@ -43,7 +43,7 @@ A journal to track and share my software development learning, helpful resources
 | MySQL                    | :star:                      |             |
 
 
-## Learning
+## Software Development Learning
 | Progress           | Type    | Title                                                                                                | Tutor         |
 |--------------------|---------| -----------------------------------------------------------------------------------------------------|---------------|
 | :heavy_check_mark: | Blog    | [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english) | Red Badger |
@@ -71,9 +71,12 @@ A journal to track and share my software development learning, helpful resources
 | :heavy_check_mark: | Course  | [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming) | Olivia Chiu Stone and Barron Stone |
 | :heavy_check_mark: | Course  | [Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2) | Olivia Scott Simpson |
 | :heavy_check_mark: | Bootcamp  | [Makers Software Engineering & DevOps Apprenticeship](https://makers.tech/) | Makers |
+
+## Cloud Computing/DevOps Learning
 | :chart_with_upwards_trend: | Book    | [Linux Basics For Hackers](https://www.amazon.co.uk/Hackers-Getting-Networking-Scripting-Security/dp/1593278551) | OccupyTheWeb |
 | :chart_with_upwards_trend: | Course  | [Python Institute PCEP Entry-Level](https://pythoninstitute.org/certification/pcep-certification-entry-level/) | Python Institute |
 | :chart_with_upwards_trend: | Course  | [A Cloud Guru AWS Certified Cloud Practitioner](https://acloudguru.com/course/aws-certified-cloud-practitioner) | A Cloud Guru |
+
 
 ## Events
 | Tech Event Attended                                                                                             | Date            |
@@ -123,23 +126,6 @@ I'm currently interested in and excited to learn further:
 * DevOps best practices
 * Agile processes
 * Test-Driven Development
-
-## Goals
-* [ ] Get AWS Certified! (Cloud Practitioner)
-* [ ] Reach 1Kyu on Codewars!
-* [ ] Contribute in an open-source project
-* [x] Learn React & Redux
-* [x] Build a project with React
-* [x] Graduate from the Udacity Front End Web Developer Nanodegree program
-* [x] Learn a server-side language - Node.js
-* [x] Learn about Rest APIs and implement them in my projects
-* [x] Learn a build tool - Webpack
-* [x] Make a habit of coding daily and take part in the [#100DaysOfCode](https://www.100daysofcode.com/) challenge 
-* [x] Design and build a portfolio website
-* [x] Create and start my own blog
-* [x] Learn about Test Driven Development
-* [x] Complete a technical test
-* [x] Tell people I am officially a software developer :smile:
 
 ## Acknowledgements
 This was inspired by [Syk Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) via his [Medium](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/) post for freeCodeCamp.
