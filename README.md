@@ -1,8 +1,6 @@
 # My Learning Tracker
 
-A journal to track and share my software development learning, helpful resources, tech meetups/workshops I've attended and my goals.
-
-[Skills](#skills) | [My Learning Progress](#Software Development Learning) | [Tech Events Attended](#events) | [Helpful Resources](#resources) | [Interests](#interests)
+Tracking my Software Development and DevOps learning, helpful resources and tech meetups/workshops I've attended.
 
 ## Skills
 | Technical                | Introduction                | Regular use |
