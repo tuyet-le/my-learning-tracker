@@ -2,7 +2,7 @@
 
 A journal to track and share my software development learning, helpful resources, tech meetups/workshops I've attended and my goals.
 
-[Skills](#skills) | [My Learning Progress](#learning) | [Tech Events Attended](#events) | [Helpful Resources](#resources) | [Interests](#interests) | [Goals](#goals)  
+[Skills](#skills) | [My Learning Progress](#learning) | [Tech Events Attended](#events) | [Helpful Resources](#resources) | [Interests](#interests)
 
 ## Skills
 | Technical                | Introduction                | Regular use |
